@@ -1,7 +1,7 @@
-- 👋 Hi,soy Ariel
-- 👀 I’m interested in  la programacio
-- 🌱 I’m currently learning  HTML Css  Jsy React
-- 💞️ I’m looking to collaborate on  cualquier proyecto que me permita aprender 
+- 👋 Hi,soy Ariel   
+- 👀 I’m interested in development  
+- 🌱 I’m currently learning the way of the Frontend (Html,Css,Js & React)
+- 💞️ I’m looking to collaborate on any project that allows me to grow professionally, help and meet people
 - 📫 How to reach me ... arieljrslm@gmail.com
 
 <!---
